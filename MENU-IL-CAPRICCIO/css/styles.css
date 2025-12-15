@@ -11,6 +11,24 @@
   letter-spacing: 3px;
 }
 
+.nav-logo {
+  height: 55px;
+  margin-top: 5px;
+}
+
+nav {
+  height: 64px;
+  line-height: 64px;
+}
+
+.logo {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
 /* Tarjetas del menú */
 .menu-card {
   position: relative;
@@ -66,3 +84,4 @@
 .menu-link {
   text-decoration: none;
 }
+
