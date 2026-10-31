@@ -1,0 +1,4 @@
+Coloca aquí las fotos de cada categoría (formato horizontal, JPG, mínimo 600x400 px) con estos nombres:
+recomendados.jpg  entradas.jpg  pastas.jpg  lasanas.jpg  pizzas.jpg
+caribena.jpg  asados.jpg  postres.jpg  bebidas.jpg  cocteles.jpg
+Mientras no exista una foto, la tarjeta muestra un ícono de respaldo.
